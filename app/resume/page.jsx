@@ -111,7 +111,7 @@ const education = {
       },
       {
         institution: "APPCON 2023",
-        degree: "Web & Mobile Competition Participant",
+        degree: "Competition Participant",
         duration: "2023",
       },
     ],
