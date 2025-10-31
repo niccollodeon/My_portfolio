@@ -53,7 +53,7 @@ const Contact = () => {
                <form className="flex flex-col gap-6 p-10 bg-[#27272c] rounded-xl">
                  <h3 className="text-4xl text-indigo-900">Let's Work Together</h3>
                  <p className="text--white/60">
-                   Lorem ipsum, dolor sit amet consectetur adipisicing elit. Inventore, architecto.
+                   Passionate about building intelligent and efficient software solutions. Whether it’s web development, automation, or AI projects — I’m always excited to collaborate and bring innovative ideas to life.
                  </p>
                  {/*input*/}
                  <div className="grid grid-cols-1 md:grid-cols-2 gap-6">

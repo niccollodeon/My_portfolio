@@ -27,7 +27,7 @@ const services = [
     },
     {
      num: '04',
-     title:'AI Development',
+     title:'Machine Learning & AI',
      description:
        "Leveraging AI and machine learning technologies to build intelligent applications that can learn, adapt, and provide personalized experiences for users.",
      href: ""

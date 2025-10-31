@@ -87,7 +87,7 @@ const education = {
       {
         institution: "National University Lipa",
         degree: "Degree in Computer Science",
-        duration: "Currently studying",
+        duration: "2022 - present",
       },
       {
         institution: "Philippine Computing Science Congress",
@@ -104,7 +104,11 @@ const education = {
         degree: "IC3 Certification",
         duration: "2025",
       },
-
+      {
+        institution: "CHED Lakas",
+        degree: "Machine Learning Conference",
+        duration: "2023",
+      },
     ],
   };
 
@@ -148,7 +152,7 @@ const skills ={
       {
         icon: <img src="/ic3.png" alt="IC3 Badge" className="w-12 h-12" />,
         name: "IC3 Badge",
-      }
+      },
     ],
 };
 

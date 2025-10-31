@@ -24,7 +24,7 @@ import WorkSliderBtns from "@/components/WorkSliderBtns";
 const projects = [
     {
       num: '01',
-      category: 'Frontend',
+      category: 'NALA Frontend',
       title: 'project 1',
       description: 
         "Created a responsive Web Application for Translating Philippine Dialectss.",
@@ -52,9 +52,19 @@ const projects = [
         "My very own responsive Portfolio using NextJS, React, and Tailwind.",
       stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
       image: "/assets/port.png",
-      live: "",
-      github: "",
-    }, 
+      live: "https://my-portfolio-niccollodeons-projects.vercel.app",
+      github: "https://github.com/niccollodeon/My_portfolio",
+    },
+    {
+      num: '04',
+      category: 'LAYA (Legal Aid at Your Access)',
+      title: 'project 4',
+      description:
+        "A Multilingual Conversational AI Chatbot for Philippine Laws, focused on data collection, NLP preprocessing, and model training for automated legal assistance.",
+      stack: [{ name: "Python" }, { name: "Azure" }, { name: "Pytorch"}],
+      image: "/assets/1.png",
+      github: "https://github.com/jeisquaredd/LAYA",
+    },
     
 ];
 
