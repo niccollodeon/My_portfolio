@@ -91,7 +91,7 @@ const education = {
       },
       {
         institution: "Philippine Computing Science Congress",
-        degree: "Workshop Participant",
+        degree: "Certificate of Participant Holder",
         duration: "2024",
       },
       {
@@ -107,6 +107,11 @@ const education = {
       {
         institution: "CHED Lakas",
         degree: "Machine Learning Conference",
+        duration: "2023",
+      },
+      {
+        institution: "APPCON 2023",
+        degree: "Web & Mobile Competition Participant",
         duration: "2023",
       },
     ],
