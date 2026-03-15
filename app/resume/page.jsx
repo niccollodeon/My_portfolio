@@ -8,9 +8,12 @@ import {
     FaReact,
     FaNodeJs,
     FaPython,
+    FaDocker,
+    FaFlask,
+    FaPhp,
 } from 'react-icons/fa';
 
-import { SiTailwindcss, SiNextdotjs } from 'react-icons/si';
+import { SiTailwindcss, SiNextdotjs, SiVercel, SiRailway, SiDotnet, SiMysql } from 'react-icons/si';
 
 //about data
 const about = {
@@ -56,7 +59,7 @@ const experience = {
     "This showcases the projects I’ve worked on to sharpen my skills and expand my knowledge.",
   items: [
     {
-      company: "Annika Dayrit Make-Up",
+      company: "OrangeID - CNN Citrus Classifier",
       position: "Fullstack Developer",
       duration: "2025 - 2026",
     },
@@ -114,6 +117,21 @@ const education = {
         degree: "Competition Participant",
         duration: "2023",
       },
+      {
+        institution: "Coursera",
+        degree: "Prompt Engineering Specialization",
+        duration: "2025",
+      },
+      {
+        institution: "Coursera",
+        degree: "Machine Learning Specialization",
+        duration: "2025",
+      },
+      {
+        institution: "FreeCodeCamp",
+        degree: "Machine Learning with Python",
+        duration: "2025",
+      },
     ],
   };
 
@@ -155,8 +173,32 @@ const skills ={
         name: "python",
       },
       {
-        icon: <img src="/ic3.png" alt="IC3 Badge" className="w-12 h-12" />,
-        name: "IC3 Badge",
+        icon: <FaDocker />,
+        name: "docker",
+      },
+      {
+        icon: <FaFlask />,
+        name: "flask",
+      },
+      {
+        icon: <SiVercel />,
+        name: "vercel",
+      },
+      {
+        icon: <SiRailway />,
+        name: "railway",
+      },
+      {
+        icon: <SiDotnet />,
+        name: ".net",
+      },
+      {
+        icon: <FaPhp />,
+        name: "php",
+      },
+      {
+        icon: <SiMysql />,
+        name: "mysql",
       },
     ],
 };

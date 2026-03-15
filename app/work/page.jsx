@@ -39,10 +39,10 @@ const projects = [
       title: 'project 2',
       description: 
         "Orange Classifier in Deep Learning using EfficientNetB0.",
-      stack: [{ name: "Python" }, { name: "Tensorflow" }, { name: "Keras" }],
-      image: "/assets/train3.png",
-      live: "",
-      github: "https://github.com/niccollodeon/OrangeClassifier_DeepLearning",
+      stack: [{ name: "Python" }, { name: "Tensorflow" }, { name: "Keras" }, {name: "React"}, {name: "Flask"}, {name: "Docker"}],
+      image: "/assets/CNN_ORANGE_APP.png",
+      live: "https://orange-classifier-fbyd.vercel.app/",
+      github: "https://github.com/niccollodeon/Orange_Classifier",
     }, 
     {
       num: '03',
