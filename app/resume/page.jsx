@@ -79,7 +79,7 @@ const experience = {
       duration: "2025",
     },
     {
-      company: "Personal Project",
+      company: "GeoLookup IP Intelligence",
       position: "Fullstack Developer",
       duration: "2026",
     },
