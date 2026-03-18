@@ -50,7 +50,7 @@ const projects = [
       title: 'project 3',
       description: 
         "My very own responsive Portfolio using NextJS, React, and Tailwind.",
-      stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }],
+      stack: [{ name: "Next.js" }, { name: "Tailwind.css" }, { name: "Node.js" }, {name: "Vercel"}, {name: "React"}],
       image: "/assets/port.png",
       live: "https://my-portfolio-niccollodeons-projects.vercel.app",
       github: "https://github.com/niccollodeon/My_portfolio",
@@ -65,7 +65,18 @@ const projects = [
       image: "/assets/1.png",
       live: "",
       github: "https://github.com/jeisquaredd/LAYA",
-    }, 
+    },
+    {
+      num: '05',
+      category: 'GeoLookup IP Intelligence',
+      title: 'project 5',
+      description:
+        "A full-stack IP geolocation app with JWT authentication, interactive maps, and search history — built with React, Node.js, and deployed on Vercel and Railway.",
+      stack: [{ name: "React" }, { name: "Node.js" }, { name: "Express.js" }, {name: "Vercel"}, {name: "Railway"}],
+      image: "/assets/Geolookup.png",
+      live: "https://geo-lookup-ip-intelligence-front-en.vercel.app/",
+      github: "https://github.com/niccollodeon/GeoLookup-IP-Intelligence-FrontEnd",
+    },
 ];
 
 const Work = () => {

@@ -78,6 +78,11 @@ const experience = {
       position: "Machine Learninig Developer",
       duration: "2025",
     },
+    {
+      company: "Personal Project",
+      position: "Fullstack Developer",
+      duration: "2026",
+    },
   ],
 };
 
